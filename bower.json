@@ -1,0 +1,17 @@
+{
+  "name": "quill-kodetek",
+  "homepage": "https://github.com/bhumidevninja/quill-kodetek",
+  "authors": [
+    "bhumidevninja"
+  ],
+  "description": "bower package for quill",
+  "main": "quill.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
